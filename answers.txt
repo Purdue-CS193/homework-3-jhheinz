@@ -8,4 +8,5 @@ It only gets the changes to tell you if the your local repository is up to date 
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+Git is the version control system and provides all the commands,
+GitHub is a website that allows Git repositories to be stored online for peace of mind and easier collaboration. 
